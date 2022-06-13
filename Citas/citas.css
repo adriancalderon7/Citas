@@ -1,0 +1,142 @@
+.container{
+    max-width:530px;
+  }
+  #tinder-cards{
+      margin-top: 80px;
+  }
+  .logo-icon img {
+    height: 25px;
+    width: auto;
+  }
+  
+  #its-match-img img {
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  #its-match-title-text{
+     position: absolute;
+    top: 12%;
+    left: 25%;
+  }
+  .inner-its-match-content{
+    margin-top:70px;
+    margin-left:4px;
+  }
+  
+  body {
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    background: #e53935; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+      to right,
+      #e35d5b,
+      #e53935
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+      to right,
+      #e35d5b,
+      #e53935
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  #its-match-card {
+    display: inline-block;
+    background-color: #4b4b4b;
+    
+  }
+  
+  .tinder-nav{
+    background-color:#ffffff;
+    padding: 2px 1px 2px 1px;
+  }
+  
+  #its-match-card p{
+    color: #ffffff;
+    font-weight: 200;
+    font-size: .7em;
+    margin-left:10%;
+  }
+  
+  #its-match-card a{
+    color: #ffffff;
+    font-weight: 200;
+    font-size: .7em;
+  }
+  .boton-section{
+    padding-top:20px;
+  }
+  .boton-section span{
+    padding-left:5px;
+    font-size:11px;
+  }
+  
+  #its-match-card button{
+    background-color: Transparent;
+    border-color:#606060;
+    margin: 10px 0px 5px 40px;
+    width: 180px;
+  }
+  
+  #reference-text{
+     margin:10px 0px 10px 65px;
+     
+  }
+  #snap-props-img{
+    padding-top:10px;
+    margin-left: auto;
+      margin-right: auto;
+      width: 98%;
+  }
+  
+  
+  #snap-props-card{
+    background-color:#ffffff; 
+    
+  }
+  #sub-text p{
+    font-size: 13px;
+    padding-top:4px;
+  }
+  #sub-text .sub-num span{
+    font-size: 13px;
+    color:#DCDCDC;
+    padding-left:10px;
+  }
+  #sub-text{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #DCDCDC;
+    border-radius: 5px;
+    padding: 0px;
+    margin:0px;
+    width: 233px;
+      height: 30px;
+    background-color:#ffffff; 
+     position: absolute;
+      left: 16px;
+      top: 280px;
+  }
+  #reload-boton{
+     position: absolute;
+      left: 21px;
+      top: 330px;
+  }
+  #map-boton{
+     position: absolute;
+      left: 165px;
+      top: 330px;
+  }
+  #reload-boton{
+     position: absolute;
+      left: 21px;
+      top: 330px;
+  }
+  #cancel-boton{
+     position: absolute;
+      left: 57px;
+      top: 330px;
+  }
+  #heart-boton{
+     position: absolute;
+      left: 111px;
+      top: 330px;
+  }
